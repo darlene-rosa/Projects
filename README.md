@@ -18,17 +18,17 @@ Purpose:  Find a dataset and build visuals to tell a story using Tableau.
 Description:  With a team of 4 other students, we focused on creating data visualizations on various subtopics within the Olympic Games such as history, country participation, specific athlete records, record comparisons, and most popular sports. We sourced most of our information from datasets found on kaggle.com
 My role:  Co-leader and contributor. I suggested the general topic idea and led in group discussions, scheduling meetings, and overall direction of the presentation. For my visualizations, I cleaned data in Excel files then used Tableau to display trends using various line graphs, maps, bar charts, and tables.  
 
-#4 Project: "Anthem" for course BPL 5100:  Business Policy
+# 4 Project: "Anthem" for course BPL 5100:  Business Policy
 Purpose: Identify and diagnosing issues related to interactions among multiple functional areas of organizations; apply strategic management techniques to generate recommendations for strategic issues; synthesize arguments and recommendations in persuasive oral and written communications.
 Description:  With a team of 4 other students, our goal was to play the role of external consultants to the company and highlight one serious problem that the company is either facing currently or could face in the near future. The problem identification should provide a recommendation that the company could pursue to address this problem, along with actions towards its implementation
-My role:
+My role:  Business Analyst, Copywriter, Editor. I analyzed the market share, marketing strategies, business acquisitions for the company analytical reports. Throughout the entire term project, I edited the documents for grammatical accuracy and fluency.
 
-#5 Project: "Evaluating the NYC Housing Market using 2010-2020 Census Data" for course CIS 3120:  Programming for Analytics            
+# 5 Project: "Evaluating the NYC Housing Market using 2010-2020 Census Data" for course CIS 3120:  Programming for Analytics            
 Purpose:  Demonstrate proficiency using Python to complete a term project.
 Description:  With a group of 2 other students, we analyzed the variances in population within the 5 boroughs of New York City using data from the census bureau to analyze whether COVID-19 significantly impacted the population size of New York City over the span of a decade.
 My role:  I suggested the topic and served as a co-leader of the group. I web scraped data from an Excel file with 3,000 rows, used NumPy to create ndarrays, index, and sort data, then used Pandas to create Series, DataFrames, and aggregate data with GroupBy and pivot tables. Finally, I used Matplotlib to create graphs and highlight important data. 
 
-#6 Project: "Airbnb" for Data Science for All Empowerment Fellowship by Correlation One (October 2021 - March 2022)
+# 6 Project: "Airbnb" for Data Science for All Empowerment Fellowship by Correlation One (October 2021 - March 2022)
 Purpose:
 Description:
-My Role
+My Role:
