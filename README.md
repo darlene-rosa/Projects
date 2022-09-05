@@ -13,25 +13,35 @@ I designed a logo and graphics using Canva. Using web design principles, coding 
 
 # 2.  Project: "UNICIRCLE" for course CIS 5800:  Information Technology and Project Management
 Purpose:  Build an understanding of the principles and applications of project management, the software development life cycle, and work as a team to deliver a working prototype of software.
+
 Description:  A team of 4 other students and myself created UniCircle, a concept web application to help college students form study groups and professional connections within their own college. 
+
 My role:  Co-Project Manager, Business Analyst, Graphic Designer, Audio editor. My responsibilities as the Co-Project Manager and Business Analyst were to: manage members, set expectations for the work schedule and performance standards, motivate the team, contribute to the deliverables and document our activities in meeting logs with detailed notes; analyze the existing business opportunity, develop the rollout plan, compute the budget and project costs, estimate time schedules, and develop the marketing strategy and risk/contingency plans.
 
 # 3.  Project: "Storytelling with Data - The Olympic Games" for course CIS 4170:  Data Visualization                       
 Purpose:  Transform data into visual representations so that decision makers can effectively use interactive visualization for analytical reasoning. Find a dataset and build visuals to tell a story using Tableau. 
+
 Description:  With a team of 4 other students, we focused on creating data visualizations on various subtopics within the Olympic Games. For my subtopics, I focused on country participation, specific athlete records, record comparisons, and most popular sports. We sourced most of our information from datasets found on kaggle.com
+
 My role:  Co-project manager and data scientist. I recommended the general topic idea and led in group discussions, scheduling meetings, and overall direction of the presentation. To create visualizations, I cleaned data in Excel files then used Tableau to display trends using various line graphs, maps, bar charts, and tables.
 
 # 4.  Project: "Anthem" for course BPL 5100:  Business Policy
 Purpose: Identify and diagnose issues related to interactions among multiple areas of organizations for the company; apply strategic management techniques to generate recommendations for strategic issues; synthesize arguments and recommendations in persuasive oral and written communications.
+
 Description:  With a team of 4 other students, for the final term project, our goal was to play the role of external consultants to the company and highlight any current or future problems that the company could face, then provide a recommendation the company could pursue to address this problem, along with actions towards its implementation.
+
 My role: Project Manager, Business Analyst, Copywriter, Editor. My responsibilities as the Project Manager and Business Analyst were to: maintain the project plan and track progress, document our activities, act as a liaison between the professor and students, and close communication gaps with my team of international students. Throughout the entire term project, I edited the copywriting for company analytical reports for grammatical accuracy and fluency.
 
 # 5. Project: "Evaluating the NYC Housing Market using 2010-2020 Census Data" for course CIS 3120:  Programming for Analytics            
 Purpose:  Demonstrate proficiency using Python to complete a term project.
+
 Description:  With a team of 2 other students, we analyzed the variances in population within the 5 boroughs of New York City using data from the census bureau to analyze whether COVID-19 significantly impacted the population size of New York City over the span of a decade.
+
 My role:  I suggested the topic and served as a co-project manager of the group. I web scraped data from an Excel file with 3,000+ rows and used Python to clean and prepare the data. With NumPy, I created ndarrays, indexed, and sorted data. Used Pandas to create Series, DataFrames, and aggregated data with GroupBy and pivot tables. I used Matplotlib and Seaborn to create various visuals for data analysis and to test our hypothesis. 
 
 # 6. Project: "Why More Homeowners Should Join Airbnb and List Their Homes for Longterm Stays" (Analysis of Airbnb Long-Term Listings in the US)" for Data Science for All Empowerment Fellowship by Correlation One (October 2021 - March 2022)
 Purpose:  Demonstrate understanding of data science using exploratory data analysis to investigate the specific questions for the business problem proposed for your capstone project.
+
 Description:  During the pandemic, Airbnb faced the loss of a significant number of its hosts and listings.  In this project, we performed an analysis of the top 3 most popular cities for long-term listing (Los Angeles, New York, and Seattle) using Python, Tableau, and Google Colabatory to highlight the trends and benefits of long-term listings in hopes of incentivizing homeowners to become hosts and list their properties on Airbnb’s platform.
+
 My Role:  Data Scientist, Data Analyst, Business Analyst, Graphic designer.
