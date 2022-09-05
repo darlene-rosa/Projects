@@ -6,16 +6,29 @@ They reflect my interests, creativity, business analysis, and ability to collabo
 # 1. Project: “Rose & Renewed: The Book” Website for course CIS 3630: Principles of Web Design
 Purpose:  Demonstrate the fundamentals of web design and development by building a functional site.
 Description: “Rose & Renewed: The Book” is a concept website and blog promoting a fictional book. The goal is to attract users to buy merchandise.
-My role: I wrote the concept and analysis including the website goals, intended users, website visit scenarios, competitor analysis and the web project design. I planned and designed a logo and a product landing page using Canva, layouts and frameworks, then applied web design principles and coding strategies to create a mobile-responsive website with hyperlinks, tables, images, and forms using HTML5, CSS3, Bootstrap, JavaScript, and jQuery. For this site, extra emphasis was focused on the color specifications, graphics, and typography.
+My role:  Analyst, Designer, and Developer. I wrote the concept and analysis including the website goals, intended users, website visit scenarios, competitor analysis and the web project design. I planned and designed a logo and a product landing page using Canva, layouts and frameworks, then applied web design principles and coding strategies to create a mobile-responsive website with hyperlinks, tables, images, and forms using HTML5, CSS3, Bootstrap, JavaScript, and jQuery. For this site, extra emphasis was focused on the color specifications, graphics, and typography.
 
 # 2. Project: "UNICIRCLE" for course CIS 5800:  Information Technology and Project Management
-Description:  UniCircle is a concept app to help college students form study groups and professional connections within their own college.
-My role:  Co-Project Manager and Business Analyst
-I computed project costs, time estimates, and developed the marketing strategy and risk/contingency plans.
+Purpose:  
+Description:  With a team of 4 other students, we created UniCircle, a concept web application to help college students form study groups and professional connections within their own college.
+My role:  Co-Project Manager and Business Analyst. I computed project costs, time estimates, and developed the marketing strategy and risk/contingency plans.
 
 # 3. Project: "Storytelling with Data - The Olympic Games" for course CIS 4170:  Data Visualization                       
 Purpose:  Find a dataset and build visuals to tell a story using Tableau. 
-Description:  With a group of 4 other students, we focused on creating data visualizations regarding various subtopics within the Olympic Games such as country participation, specific athlete records, record comparisons and most popular sports. We sourced most of our information from datasets found on kaggle.com
-My role:  I suggested the general topic idea and was a co-leader in the group discussions and direction of the presentation. For my visualizations, I cleaned data in Excel files then used Tableau to display trends using line graphs, maps, bar charts, and tables.  
+Description:  With a team of 4 other students, we focused on creating data visualizations on various subtopics within the Olympic Games such as history, country participation, specific athlete records, record comparisons, and most popular sports. We sourced most of our information from datasets found on kaggle.com
+My role:  Co-leader and contributor. I suggested the general topic idea and led in group discussions, scheduling meetings, and overall direction of the presentation. For my visualizations, I cleaned data in Excel files then used Tableau to display trends using various line graphs, maps, bar charts, and tables.  
 
+#4 Project: "Anthem" for course BPL 5100:  Business Policy
+Purpose: Identify and diagnosing issues related to interactions among multiple functional areas of organizations; apply strategic management techniques to generate recommendations for strategic issues; synthesize arguments and recommendations in persuasive oral and written communications.
+Description:  With a team of 4 other students, our goal was to play the role of external consultants to the company and highlight one serious problem that the company is either facing currently or could face in the near future. The problem identification should provide a recommendation that the company could pursue to address this problem, along with actions towards its implementation
+My role:
 
+#5 Project: "Evaluating the NYC Housing Market using 2010-2020 Census Data" for course CIS 3120:  Programming for Analytics            
+Purpose:  Demonstrate proficiency using Python to complete a term project.
+Description:  With a group of 2 other students, we analyzed the variances in population within the 5 boroughs of New York City using data from the census bureau to analyze whether COVID-19 significantly impacted the population size of New York City over the span of a decade.
+My role:  I suggested the topic and served as a co-leader of the group. I web scraped data from an Excel file with 3,000 rows, used NumPy to create ndarrays, index, and sort data, then used Pandas to create Series, DataFrames, and aggregate data with GroupBy and pivot tables. Finally, I used Matplotlib to create graphs and highlight important data. 
+
+#6 Project: "Airbnb" for Data Science for All Empowerment Fellowship by Correlation One (October 2021 - March 2022)
+Purpose:
+Description:
+My Role
