@@ -9,12 +9,12 @@ Description: “Rose & Renewed: The Book” is a concept website and blog promot
 My role:  Analyst, Designer, and Developer. I wrote the concept and analysis including the website goals, intended users, website visit scenarios, competitor analysis and the web project design. I planned and designed a logo and a product landing page using Canva, layouts and frameworks, then applied web design principles and coding strategies to create a mobile-responsive website with hyperlinks, tables, images, and forms using HTML5, CSS3, Bootstrap, JavaScript, and jQuery. For this site, extra emphasis was focused on the color specifications, graphics, and typography.
 
 # 2. Project: "UNICIRCLE" for course CIS 5800:  Information Technology and Project Management
-Purpose:  
+Purpose:  Build an understanding of the software design, implementation processes and work as a team to deliver a working software. Develop a sound understanding of the principles and applications of project management. Teach students how to apply quantitative methods to project planning, performance and monitoring. Develop students' knowledge of project management theories, tools and software.
 Description:  With a team of 4 other students, we created UniCircle, a concept web application to help college students form study groups and professional connections within their own college.
-My role:  Co-Project Manager and Business Analyst. I computed project costs, time estimates, and developed the marketing strategy and risk/contingency plans.
+My role:  Co-Project Manager, Business Analyst, Graphic Designer, Audio editor. I sourced visuals for the presentation, designed graphics, computed project costs, time estimates, and developed the marketing strategy and risk/contingency plans.
 
 # 3. Project: "Storytelling with Data - The Olympic Games" for course CIS 4170:  Data Visualization                       
-Purpose:  Find a dataset and build visuals to tell a story using Tableau. 
+Purpose:  Transform data into visual representations so that decision makers can effectively use interactive visualization for analytical reasoning. Find a dataset and build visuals to tell a story using Tableau. 
 Description:  With a team of 4 other students, we focused on creating data visualizations on various subtopics within the Olympic Games such as history, country participation, specific athlete records, record comparisons, and most popular sports. We sourced most of our information from datasets found on kaggle.com
 My role:  Co-leader and contributor. I suggested the general topic idea and led in group discussions, scheduling meetings, and overall direction of the presentation. For my visualizations, I cleaned data in Excel files then used Tableau to display trends using various line graphs, maps, bar charts, and tables.  
 
