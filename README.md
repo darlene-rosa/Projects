@@ -1,6 +1,6 @@
 # Projects
 These final projects are a few examples of the individual and group work that I completed while studying business administration and computer information systems at Baruch College during 2020-2021 and during my post-graduate fellowship program with Data Science for All/Empowerment.
-They reflect my interests, creativity, business analysis, and ability to collaborate to publically present before an audience.
+They reflect my leadership ability, curiosity, interests, creativity, and skills in research, business analysis, collaboration, and presentation.
 
 
 # 1. Project: “Rose & Renewed: The Book” Website for course CIS 3630:  Principles of Web Design
