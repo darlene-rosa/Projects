@@ -5,6 +5,7 @@ They reflect my leadership ability, curiosity, interests, creativity, and skills
 
 # 1. Project: “Rose & Renewed: The Book” Website for course CIS 3630:  Principles of Web Design
 Purpose:  Demonstrate the fundamentals of web design and development by building a functional site.
+
 Description: “Rose & Renewed: The Book” is a concept website and blog promoting a fictional book. The goal is to attract users to buy merchandise.
 
 My role:  Business Analyst, User Experience, Presentation Designer, Graphic Designer, Web Developer. 
