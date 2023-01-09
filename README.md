@@ -1,5 +1,5 @@
-# studentprojects
-These final projects are a few examples of the individual and group work that I completed while studying business administration and computer information systems at Baruch College during 2020-2021.
+# Projects
+These final projects are a few examples of the individual and group work that I completed while studying business administration and computer information systems at Baruch College during 2020-2021 and during my post-graduate fellowship program with Data Science for All/Empowerment.
 They reflect my interests, creativity, business analysis, and ability to collaborate to publically present before an audience.
 
 
@@ -39,7 +39,7 @@ Description:  With a team of 2 other students, we analyzed the variances in popu
 
 My role:  I suggested the topic and served as a co-project manager of the group. I web scraped data from an Excel file with 3,000+ rows and used Python to clean and prepare the data. With NumPy, I created ndarrays, indexed, and sorted data. Used Pandas to create Series, DataFrames, and aggregated data with GroupBy and pivot tables. I used Matplotlib and Seaborn to create various visuals for data analysis and to test our hypothesis. 
 
-# 6. Project: "Why More Homeowners Should Join Airbnb and List Their Homes for Longterm Stays" (Analysis of Airbnb Long-Term Listings in the US)" for Data Science for All Empowerment Fellowship by Correlation One (October 2021 - March 2022)
+# 6. Project: "Why More Homeowners Should Join Airbnb and List Their Homes for Longterm Stays" (Analysis of Airbnb Long-Term Listings in the US)" for Data Science for All/Empowerment by Correlation One (October 2021 - March 2022)
 Purpose:  Demonstrate understanding of data science using exploratory data analysis to investigate the specific questions for the business problem proposed for your capstone project.
 
 Description:  During the pandemic, Airbnb faced the loss of a significant number of its hosts and listings.  In this project, we performed an analysis of the top 3 most popular cities for long-term listing (Los Angeles, New York, and Seattle) using Python, Tableau, and Google Colabatory to highlight the trends and benefits of long-term listings in hopes of incentivizing homeowners to become hosts and list their properties on Airbnb’s platform.
