@@ -1,7 +1,10 @@
 # Projects
-These projects are a few examples of the individual and group work that I completed while studying business administration and computer information systems at Baruch College from 2020 - 2021 (3 semesters). The Airbnb project was conducted during my post-graduate fellowship program with Data Science for All/Empowerment from October 2021 - March 2022. All projects were completed remotely and resulted in a virtual presentation to an audience of peers.
+Projects #1 - #6 are term projects I completed for different classes over 3 semesters while studying business administration and computer information systems at Baruch College from 2020 - 2021. They consist of individual effort and collective teamwork.
+
+Project #7: The Airbnb project was conducted during my post-graduate fellowship program with Data Science for All/Empowerment from October 2021 - March 2022. All projects were completed remotely and resulted in a virtual presentation to an audience of peers.
 
 The projects reflect my curiosity, interests, creativity, and skills in research, business analysis, collaboration, and presentation.
+Below I describe the purpose, description, and my role in each project.
 
 
 # 1. Project: “Rose & Renewed: The Book, The Brand, The Artist” Website for course CIS 3630:  Principles of Web Design
