@@ -21,7 +21,7 @@ My role:  Co-Project Manager, Business Analyst, Graphic Designer, Audio editor. 
 # 3.  Project: "Storytelling with Data - The Olympic Games" for course CIS 4170:  Data Visualization                       
 Purpose:  Transform data into visual representations so that decision makers can effectively use interactive visualization for analytical reasoning. Find a dataset and build visuals to tell a story using Tableau. 
 
-Description:  With a team of 4 other students, we focused on creating data visualizations on various subtopics within the Olympic Games. For my subtopics, I focused on country participation, specific athlete records, record comparisons, and most popular sports. We sourced most of our information from datasets found on kaggle.com
+Description:  With a team of 4 other students, we focused on creating data visualizations on various subtopics within the Olympic Games. For my subtopics, I focused on country participation, specific athlete records, record comparisons, and most popular sports. We sourced most of our information from datasets found on kaggle.com and created individual excel files to clean and prepare the data.
 
 My role:  Co-project manager and data scientist. I recommended the general topic idea and led in group discussions, scheduling meetings, and overall direction of the presentation. To create visualizations, I cleaned data in Excel files then used Tableau to display trends using various line graphs, maps, bar charts, and tables.
 
@@ -44,4 +44,4 @@ Purpose:  Demonstrate understanding of data science using exploratory data analy
 
 Description:  During the pandemic, Airbnb faced the loss of a significant number of its hosts and listings.  In this project, we performed an analysis of the top 3 most popular cities for long-term listing (Los Angeles, New York, and Seattle) using Python, Tableau, and Google Colabatory to highlight the trends and benefits of long-term listings in hopes of incentivizing homeowners to become hosts and list their properties on Airbnb’s platform.
 
-My Role:  Data Scientist, Data Analyst, Business Analyst, Graphic designer.
+My Role:  Data Scientist, Data Analyst, Business Analyst, Graphic designer. I worked online with a team of 2 other remote Fellows. We met each week for no less than 1 hour to  ensure we were on track with our deliverables. We acquired our large datasets on Airbnb from Kaggle and used the Airbnb website to acquire further public company information. We divided the work to clean and prepare the data for analysis through Python. We utilized Tableau to create visualization and I used Google Analytics to prepare our final datafolio for presentation.
