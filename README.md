@@ -25,6 +25,7 @@ Purpose:  Transform data into visual representations so that decision makers can
 Description:  With a team of 4 other students, we focused on creating data visualizations on various subtopics within the Olympic Games. For my subtopics, I focused on country participation, specific athlete records, record comparisons, and most popular sports. We sourced most of our information from datasets found on kaggle.com and created individual excel files to clean and prepare the data.
 
 My role:  Co-Project Manager, Data Scientist, Presentation Designer. I recommended the general topic idea and led in group discussions, scheduling meetings, and overall direction of the presentation. To create visualizations, I cleaned data in Excel files then used Tableau to display trends using various line graphs, maps, bar charts, and tables.
+
 Link: https://public.tableau.com/app/profile/darlene.rosa/viz/AnAnalysisoftheOlympicGamesPrizeMoneyPerCountryTrackandFieldAthleteRecordTimesAllysonFelix/SummerOlympics
 
 # 4.  Project: "Anthem" for course BPL 5100:  Business Policy
