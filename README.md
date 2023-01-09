@@ -3,10 +3,10 @@ These final projects are a few examples of the individual and group work that I 
 They reflect my leadership ability, curiosity, interests, creativity, and skills in research, business analysis, collaboration, and presentation.
 
 
-# 1. Project: “Rose & Renewed: The Book” Website for course CIS 3630:  Principles of Web Design
+# 1. Project: “Rose & Renewed: The Book, The Brand, The Artist” Website for course CIS 3630:  Principles of Web Design
 Purpose:  Demonstrate the fundamentals of web design and development by building a functional site.
 
-Description: “Rose & Renewed: The Book” is a concept website and blog promoting a fictional book. The goal is to attract users to buy merchandise.
+Description: “Rose & Renewed: The Book” is a concept website and blog promoting a fictional author, book, and blog. The goal of the website is to promote a visual aesthetic, increase audience engagement through a photo gallery and blog, and sell a book.
 
 My role:  Business Analyst, User Experience, Presentation Designer, Graphic Designer, Web Developer. 
 I wrote the concept and analysis (the website goals, intended users, website visit scenarios, competitor analysis and the web project design).
