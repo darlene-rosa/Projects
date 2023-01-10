@@ -1,4 +1,4 @@
-# Completed Projects
+# Business and Data Analytics Projects
 Projects #1 - #6 are term projects I completed for different classes over 3 semesters while studying business administration and computer information systems at Baruch College from 2020 - 2021. They consist of individual effort and collective teamwork.
 
 Project #7: The Airbnb project was conducted during my post-graduate fellowship program with Data Science for All/Empowerment from October 2021 - March 2022.
