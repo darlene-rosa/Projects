@@ -1,5 +1,5 @@
 # Capstone Business and Data Analytics Projects
-## Website: https://darlene-rosa.github.io/
+### Website: https://darlene-rosa.github.io/
 
 #### Projects #1 - #6 are term projects I completed for different classes over 3 semesters while studying business administration and computer information systems at Baruch College from 2020 - 2021. They consist of individual effort and collective teamwork.
 
