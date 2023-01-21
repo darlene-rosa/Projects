@@ -57,11 +57,11 @@ I designed a logo on Canva and sourced images from my personal files in addition
 **My role**:  I suggested the topic and served as a co-project manager of the group. I web scraped data from an Excel file with 3,000+ rows and used Python to clean and prepare the data. With NumPy, I created ndarrays, indexed, and sorted data. Used Pandas to create Series, DataFrames, and aggregated data with GroupBy and pivot tables. I used Matplotlib and Seaborn to create various visuals for data analysis and to test our hypothesis. 
 
 ## 6. Project: *"Hopper: A Look at Usability, Privacy and Security"* for CIS 3770: Uability, Privacy, and Security
-**Purpose**: Semester-long individual term project where I had to ollect data and apply the concepts, methods, and techniques covered in the course to conduct a thorough evaluation of a privacy or security aspect of an existing mobile application and present the findings in audiovisual format. 
+**Purpose**: Collect data and apply the concepts, methods, and techniques covered in the course to conduct a thorough evaluation of a privacy or security aspect of an existing mobile application and present the findings in audiovisual format.
 
-**Description**: Hopper is a travel application available on iOS and Android for free that provides data on the cheapest flights, hotels, cars, homes. You can make reservations through the app. I chose Hopper because it was a newer app and I have used it for travel.
+**Description: Hopper is a free mobile travel application available on iOS and Android that provides data on the cheapest flights, hotels, cars, homes. You can make reservations through the app. I chose Hopper because I like the interface and I have used it for travel.
 
-**My role**: Analyst, Researcher, User Experience Tester, Presentation Designer. Through the project, I collected data and applied the concepts, methods, and techniques learned in the course to my project. I evaluated the app for functionality, user authentication, heuristics, security, and the privacy policy. I recruited a user from my target population of the app and provided a script to conduct an individual usability test through the "think aloud" method. I analyzed their verbalizations and created a summary of my findings.
+**My role**: Analyst, Researcher, User Experience Tester, Presentation Designer; I evaluated the app for functionality, user authentication, heuristics, security, and the privacy policy. I recruited a user from my target population of the app and provided a script to conduct an individual usability test through the "think aloud" method. I analyzed their thought process and created a summary of my findings.
 
 
 ## 7. Project: *"Why More Homeowners Should Join Airbnb and List Their Homes for Longterm Stays"* (Analysis of Airbnb Long-Term Listings in the US)" for Data Science for All/Empowerment by Correlation One (October 2021 - March 2022)
