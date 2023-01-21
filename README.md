@@ -61,7 +61,7 @@ I designed a logo on Canva and sourced images from my personal files in addition
 
 **Description: Hopper is a free mobile travel application available on iOS and Android that provides data on the cheapest flights, hotels, cars, homes. You can make reservations through the app. I chose Hopper because I like the interface and I have used it for travel.
 
-**My role**: Analyst, Researcher, User Experience Tester, Presentation Designer; I evaluated the app for functionality, user authentication, heuristics, security, and the privacy policy. I recruited a user from my target population of the app and provided a script to conduct an individual usability test through the "think aloud" method. I analyzed their thought process and created a summary of my findings.
+**My role**: Analyst, Researcher, User Experience Tester, Presentation Designer; I evaluated the app for functionality, user authentication, heuristics, security, and the privacy policy. I recruited a user from my target population of the app and provided a script to conduct an individual usability test through the "think aloud" method. I recorded their thought process and created a summary of my findings.
 
 
 ## 7. Project: *"Why More Homeowners Should Join Airbnb and List Their Homes for Longterm Stays"* (Analysis of Airbnb Long-Term Listings in the US)" for Data Science for All/Empowerment by Correlation One (October 2021 - March 2022)
