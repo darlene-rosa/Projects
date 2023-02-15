@@ -2,7 +2,7 @@
 
 **Purpose**:  Demonstrate understanding of data science using exploratory data analysis to investigate the specific questions for the business problem proposed for your capstone project.
 
-**Description**:  During the pandemic, Airbnb faced the loss of a significant number of its hosts and listings.  In this project, we performed an analysis of the top 3 most popular cities for long-term listing (Los Angeles, New York, and Seattle) using Python, Tableau, and Google Colabatory to highlight the trends and benefits of long-term listings in hopes of incentivizing homeowners to become hosts and list their properties on Airbnb’s platform.
+**Description**:  During the pandemic, Airbnb faced the loss of a significant number of its hosts and listings.  In this project, we performed an analysis of the top 3 most popular cities for long-term listing (Los Angeles, New York, and Seattle) using Python, Tableau, and Google Colaboratory to highlight the trends and benefits of long-term listings in hopes of incentivizing homeowners to become hosts and list their properties on Airbnb’s platform.
 
 **My Role**:  Data Scientist, Data Analyst, Business Analyst, Graphic designer, Presentation Designer.
 
