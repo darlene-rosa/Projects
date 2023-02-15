@@ -2,7 +2,7 @@
 
 **Purpose**:  Demonstrate proficiency using Python to complete a term project.
 
-**Description**:  With a team of 2 other students, we analyzed the variances in population within the 5 boroughs of New York City using data from the census bureau to analyze whether COVID-19 significantly impacted the population size of New York City over the span of a decade.
+**Description**:  My team and I analyzed the variances in population and demographics within the 5 boroughs of New York City over the span of a decade using data from the census bureau.
 
 **My role**: Data Analyst, Co-Project Manager, Researcher.
 
